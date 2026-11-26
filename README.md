@@ -20,4 +20,4 @@ Kad dvije osobe razvijaju projekt na odvojenim granama i žele spojiti svoj rad,
 | --- | --- | --- |
 | Nina Obadić | 0016164299  | [@nobadic23](https://github.com/korisnicko-ime) |
 | Ana Maria Levanić | 0000000000 | [@alevanic23](https://github.com/korisnicko-ime) |
-| Ema Mučić | 0000000000 | [@emucic23](https://github.com/korisnicko-ime) |
+| Ema Mučić | 0016164096 | [@emucic23](https://github.com/korisnicko-ime) |
